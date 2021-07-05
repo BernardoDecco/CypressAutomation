@@ -1,0 +1,22 @@
+{
+  "name": "CypressAutomation",
+  "version": "1.0.0",
+  "description": "Learning Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardoDecco/CypressAutomation"
+  },
+  "author": "Bernardo Decco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernardoDecco/CypressAutomation/issues"
+  },
+  "homepage": "https://github.com/BernardoDecco/CypressAutomation#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
+}
